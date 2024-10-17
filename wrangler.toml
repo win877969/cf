@@ -1,0 +1,9 @@
+name = "zona"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+node_compat = true
+workers_dev = true
+
+[vars]
+PROXYIP = "35.219.15.90"
+UUID = "8f4e4a98-0d82-4f4a-a74d-9b547e737594"
